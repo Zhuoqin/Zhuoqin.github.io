@@ -1,0 +1,11 @@
+.resume_page {
+    background: #f0eded;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.section {
+    margin-top: 40px;
+    background: white;
+    padding: 20px;
+}
